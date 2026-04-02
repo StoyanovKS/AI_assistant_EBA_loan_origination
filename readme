@@ -1,0 +1,16 @@
+# AI Assistant for EBA Guidelines
+
+This project implements an AI-powered assistant over a PDF document using:
+- OpenAI API
+- ChromaDB
+- semantic search
+- structured outputs
+
+## Features
+- Answer questions about the document
+- Supports text, image and audio responses
+
+## How to run
+1. Open in Google Colab
+2. Set OPENAI_API_KEY in Secrets
+3. Run all cells
